@@ -12,7 +12,8 @@
 <img src="https://github.com/mateushlsilva/bertoti/blob/main/engenharia_de_software_1/requisistos_nao_funcionais/requisitosNaoFuncionais.png" alt="requisito não funcional">
 
 
-## Projeto (Diagrama de Classes)
+## Atividade de Projeto de Sistema (10/03/2022)
+# Diagrama de Classes
 <img src="https://github.com/mateushlsilva/bertoti/blob/main/engenharia_de_software_1/diagrama_de_classes/progeto_de_sistemas.png" alt="diagrama de classes">
 
 ## Desenvolvimento (Classe "PlataformaEnsino")
