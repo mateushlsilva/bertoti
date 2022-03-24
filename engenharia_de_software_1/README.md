@@ -2,12 +2,13 @@
 ---
 # Ciclo de Vida do Desenvolvimento De Software (Plataforma de ensino)
 ---
+# Atividade de Análise de Requisitos(03/03/2022)
 # - Requisitos
 
-## Funcionais (Diagrama de Caso)
+## Diagrama de Caso  (Funcionais)
 <img src="https://github.com/mateushlsilva/bertoti/blob/main/engenharia_de_software_1/requisitos_funcionais/requisitosFuncionais.png" alt="requisito funcional">
 
-## Não funcionais (Usabilidade)
+## Usabilidade  (Não funcional)
 <img src="https://github.com/mateushlsilva/bertoti/blob/main/engenharia_de_software_1/requisistos_nao_funcionais/requisitosNaoFuncionais.png" alt="requisito não funcional">
 
 
