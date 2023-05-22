@@ -7,7 +7,7 @@ public class Main {
         linux.event.subscribe(new LancamentoDesktop());
 
 
-        mateus.newEdition2("World War Hulk");
-        linux.newEdition1("Batman the Dark Knight");
+        mateus.newEdition2("Ubuntu 22.04 LTS");
+        linux.newEdition1("Debian 10");
     }
 }
