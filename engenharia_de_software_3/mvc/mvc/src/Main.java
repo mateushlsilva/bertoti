@@ -1,20 +1,18 @@
+import java.util.ArrayList;
+import java.util.List;
+
 public class Main {
     public static void main(String[] args) {
-        // Cria uma instância da fachada
-        MercadoFacade mercado = new MercadoFacade();
+        View view = new View();
+        List<Model> models = new ArrayList<>();
 
-        // Cria uma ação
         Model model = new Model("AAPL", 150.0);
+        Model model1 = new Model("CCBD", 150.0);
 
-        // Executa a estratégia de copra
-        mercado.compraStrategy(model);
+        models.add(model);
+        models.add(model1);
 
-        // Atualiza o preço da ação
-        mercado.updateMercadoPreco(model, 155.0);
-
-        // Executa a estratégia de venda
-        mercado.vendaStrategy(model);
-
+        view.menu((ArrayList<Model>) models);
 
     }
 }

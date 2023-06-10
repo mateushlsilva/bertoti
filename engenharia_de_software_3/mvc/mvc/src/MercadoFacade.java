@@ -21,11 +21,5 @@ public class MercadoFacade {
         mercadoAcoes.updatePreco(model, newPreco);
     }
 
-    public void addObserver(Observer observer){
-        mercadoAcoes.addObserver(observer);
-    }
 
-    public void removeObserver(Observer observer){
-        mercadoAcoes.removeObserver(observer);
-    }
 }
